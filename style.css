@@ -34,6 +34,7 @@ ul{
     margin-right: 30px;
     font-weight: bolder;
     text-transform: uppercase;
+    fle-warp:warp
     /* padding: 10px; */
 }
 .card{
@@ -75,6 +76,7 @@ button{
 @media(max-width:768px){
     ul{
         gap: 20px;
+        flex-warp:warp
     }
     logo{
         left: 10px;
