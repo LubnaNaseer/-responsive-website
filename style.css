@@ -2,8 +2,9 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    overflow: hidden;
-}
+     overflow-x:hidden;
+/*     overflow: hidden;
+} */
 body{
     background-image: url(./moutian.jpg);
 background-size: cover;
